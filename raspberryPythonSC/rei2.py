@@ -495,8 +495,8 @@ def capture_and_email_intruder_image():
         picam2.capture_file(image_path)
         
         # Email details
-        sender_email = "joshuacajimatvigilia@gmail.com"
-        app_password = "utfo zekm yket vxsa"  # Consider using environment variables
+        sender_email = "youremail@gmail.com"
+        app_password = "password"  # Consider using environment variables
         
         # Load the saved recipient email
         current_recipient_email = load_recipient_email()
