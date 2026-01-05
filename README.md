@@ -10,7 +10,7 @@ A comprehensive smart door lock system featuring multiple authentication methods
 - **Voice Recognition**: Voice command authentication with speech recognition
 - **Remote Web Access**: Web-based login interface with IP blocking security
 
-### 📱 Control Interfaces
+###  Control Interfaces
 - **Hardware Interface**: Physical keypad, buttons, and LCD display on Raspberry Pi
 - **Web Interface**: Remote control via web browser with live camera feed
 - **Mobile App**: Planned mobile application interface (framework ready)
@@ -21,7 +21,7 @@ A comprehensive smart door lock system featuring multiple authentication methods
 - **IP Blocking**: Automatic IP blocking after multiple failed login attempts
 - **Real-time Notifications**: Live status updates and security alerts
 
-### 📹 Live Monitoring
+###  Live Monitoring
 - **Camera Integration**: Live video feed from Raspberry Pi camera
 - **Door Status Control**: Remote lock/unlock functionality
 - **System Status Display**: LCD display showing current system state
